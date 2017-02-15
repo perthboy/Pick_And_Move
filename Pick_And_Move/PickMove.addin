@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Pick_And_Move</Text>
+    <Description>Some description for Pick_And_Move</Description>
+    <Assembly>Pick_And_Move.dll</Assembly>
+    <FullClassName>Pick_And_Move.Commands</FullClassName>
+    <ClientId>CFD7C0D2-628E-4ED7-9502-DB6665E6BC2E</ClientId>
+    <VendorId>Chris Hewer</VendorId>
+  </AddIn>
+  
+</RevitAddIns>
